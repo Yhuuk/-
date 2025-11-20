@@ -1,0 +1,12 @@
+# 忽略带关键字的文件
+Project*
+*.bat
+stm32f10x*
+
+# 直接忽略文件夹
+.vscode/
+DebugConfig/
+Library/
+Listings/
+Objects/
+Start/
