@@ -21,5 +21,6 @@ void LED_FirstMode(void);
 void LED_SecondMode(void);
 void LED_ThirdMode(void);
 void LED_Switch(void);
+void LED_FourthMode(void);
 
 #endif

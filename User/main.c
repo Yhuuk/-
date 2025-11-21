@@ -20,7 +20,8 @@ int main(void)
 	
 	while (1)
 	{
-		LED_Switch();
+		// LED_Switch();
+		LED_FourthMode();
 		
 	}
 }
